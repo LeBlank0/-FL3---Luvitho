@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157682941490",
+    "project_id": "fittek-8c745",
+    "storage_bucket": "fittek-8c745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157682941490:android:6300aefff1a892d958062b",
+        "android_client_info": {
+          "package_name": "com.example.fittek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157682941490-aptc8retvortht7e07hv3li1db0ti0ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgco6HU6SQFbBxQCIwAwfb9EGTTTmtwXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157682941490-aptc8retvortht7e07hv3li1db0ti0ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
