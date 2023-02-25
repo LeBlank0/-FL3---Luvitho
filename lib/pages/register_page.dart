@@ -35,6 +35,7 @@ class _RegisterPageState extends State<RegisterPage> {
       } else {
         showErrorMessage("Passwords don't match!");
       }
+      // ignore: use_build_context_synchronously
       Navigator.pop(context);
     } on FirebaseAuthException catch (e) {
       Navigator.pop(context);
